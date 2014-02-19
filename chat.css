@@ -1,0 +1,55 @@
+.chat {
+	text-align:center;
+	margin:auto;
+	padding: 120px;
+	font-family: "Lucida Grande"!important;
+}
+
+h1 {
+	font-family: "Lucida Grande";
+}
+
+#send {
+	padding: 10px 25px;
+	background: #ff9900;
+	color: #fff;
+	font-family: "Lucida Grande";
+	border: 0px;
+
+}
+body {
+background: #f0f0f0; 
+}
+
+input {
+	padding: 10px 20px;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+}
+
+li {
+	list-style: none;
+	font-family: "Lucida Grande";
+}
+textarea {
+	border-radius: 6px;
+	border: 1px solid #ccc;
+	margin-bottom: 30px;
+}
+
+p {
+	font-size: 16px;
+}
+
+.fromin {
+	color: #ff9900;
+
+}
+
+.fromout {
+	color: #444;
+}
+
+.text {
+	color: #999;
+}
